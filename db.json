@@ -1,4 +1,5 @@
-[
+{
+"people" :[
   {
     "email_id": "anvi20002@anvibui.com",
     "license_agreement_start_date": "9/24/18",
@@ -90,3 +91,4 @@
     "churn_score": 0.5909146
   }
 ]
+}
