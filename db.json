@@ -1,94 +1,94 @@
 {
-"people" :[
-  {
-    "email_id": "anvi20002@anvibui.com",
-    "license_agreement_start_date": "9/24/18",
-    "wait_period": 1,
-    "churn_score": 0.16685541
-  },
-  {
-    "email_id": "anvi20003@anvibui.com",
-    "license_agreement_start_date": "2/10/17",
-    "wait_period": 1,
-    "churn_score": 0.45
-  },
-  {
-    "email_id": "anvi20004@anvibui.com",
-    "license_agreement_start_date": "10/1/18",
-    "wait_period": 2,
-    "churn_score": 0.12335558
-  },
-  {
-    "email_id": "anvi20005@anvibui.com",
-    "license_agreement_start_date": "9/13/19",
-    "wait_period": 1,
-    "churn_score": 0.57472485
-  },
-  {
-    "email_id": "anvi20006@anvibui.com",
-    "license_agreement_start_date": "7/27/19",
-    "wait_period": 1,
-    "churn_score": 0.8122549
-  },
-  {
-    "email_id": "anvi20007@anvibui.com",
-    "license_agreement_start_date": "12/15/17",
-    "wait_period": 2,
-    "churn_score": 0.66768533
-  },
-  {
-    "email_id": "anvi20008@anvibui.com",
-    "license_agreement_start_date": "4/25/19",
-    "wait_period": 1,
-    "churn_score": 0.26231715
-  },
-  {
-    "email_id": "anvi20009@anvibui.com",
-    "license_agreement_start_date": "11/11/16",
-    "wait_period": 1,
-    "churn_score": 0.027790748
-  },
-  {
-    "email_id": "anvi20010@anvibui.com",
-    "license_agreement_start_date": "7/12/17",
-    "wait_period": 1,
-    "churn_score": 0.99355805
-  },
-  {
-    "email_id": "anvi20011@anvibui.com",
-    "license_agreement_start_date": "10/12/17",
-    "wait_period": 1,
-    "churn_score": 0.5565624
-  },
-  {
-    "email_id": "anvi20012@anvibui.com",
-    "license_agreement_start_date": "8/3/16",
-    "wait_period": 1,
-    "churn_score": 0.26555783
-  },
-  {
-    "email_id": "anvi20013@anvibui.com",
-    "license_agreement_start_date": "8/30/18",
-    "wait_period": 1,
-    "churn_score": 0.8449085
-  },
-  {
-    "email_id": "anvi20014@anvibui.com",
-    "license_agreement_start_date": "7/28/17",
-    "wait_period": 1,
-    "churn_score": 0.80956644
-  },
-  {
-    "email_id": "anvi20015@anvibui.com",
-    "license_agreement_start_date": "5/31/19",
-    "wait_period": 1,
-    "churn_score": 0.7836617
-  },
-  {
-    "email_id": "anvi20016@anvibui.com",
-    "license_agreement_start_date": "4/26/18",
-    "wait_period": 2,
-    "churn_score": 0.5909146
-  }
-]
+  "people": [
+    {
+      "email_id": "anvi20002@anvibui.com",
+      "license_agreement_start_date": "9/24/18",
+      "wait_period": 1,
+      "churn_score": 0.16685541
+    },
+    {
+      "email_id": "anvi20003@anvibui.com",
+      "license_agreement_start_date": "2/10/17",
+      "wait_period": 1,
+      "churn_score": 0.45
+    },
+    {
+      "email_id": "anvi20004@anvibui.com",
+      "license_agreement_start_date": "10/1/18",
+      "wait_period": 2,
+      "churn_score": 0.12335558
+    },
+    {
+      "email_id": "anvi20005@anvibui.com",
+      "license_agreement_start_date": "9/13/19",
+      "wait_period": 1,
+      "churn_score": 0.57472485
+    },
+    {
+      "email_id": "anvi20006@anvibui.com",
+      "license_agreement_start_date": "7/27/19",
+      "wait_period": 1,
+      "churn_score": 0.8122549
+    },
+    {
+      "email_id": "anvi20007@anvibui.com",
+      "license_agreement_start_date": "12/15/17",
+      "wait_period": 2,
+      "churn_score": 0.66768533
+    },
+    {
+      "email_id": "anvi20008@anvibui.com",
+      "license_agreement_start_date": "4/25/19",
+      "wait_period": 1,
+      "churn_score": 0.26231715
+    },
+    {
+      "email_id": "anvi20009@anvibui.com",
+      "license_agreement_start_date": "11/11/16",
+      "wait_period": 1,
+      "churn_score": 0.027790748
+    },
+    {
+      "email_id": "anvi20010@anvibui.com",
+      "license_agreement_start_date": "7/12/17",
+      "wait_period": 1,
+      "churn_score": 0.99355805
+    },
+    {
+      "email_id": "anvi20011@anvibui.com",
+      "license_agreement_start_date": "10/12/17",
+      "wait_period": 1,
+      "churn_score": 0.5565624
+    },
+    {
+      "email_id": "anvi20012@anvibui.com",
+      "license_agreement_start_date": "8/3/16",
+      "wait_period": 1,
+      "churn_score": 0.26555783
+    },
+    {
+      "email_id": "anvi20013@anvibui.com",
+      "license_agreement_start_date": "8/30/18",
+      "wait_period": 1,
+      "churn_score": 0.8449085
+    },
+    {
+      "email_id": "anvi20014@anvibui.com",
+      "license_agreement_start_date": "7/28/17",
+      "wait_period": 1,
+      "churn_score": 0.80956644
+    },
+    {
+      "email_id": "anvi20015@anvibui.com",
+      "license_agreement_start_date": "5/31/19",
+      "wait_period": 1,
+      "churn_score": 0.7836617
+    },
+    {
+      "email_id": "anvi20016@anvibui.com",
+      "license_agreement_start_date": "4/26/18",
+      "wait_period": 2,
+      "churn_score": 0.5909146
+    }
+  ]
 }
